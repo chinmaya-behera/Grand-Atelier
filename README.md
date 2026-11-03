@@ -1,4 +1,6 @@
-# Atelier Hotel
+# Grand Atelier
+
+Source: [chinmaya-behera/Grand-Atelier](https://github.com/chinmaya-behera/Grand-Atelier). See [deployment configuration](DEPLOYMENT.md).
 
 A beige-toned interactive hotel-management wireframe based on this repository's requirements and workflow diagrams.
 
